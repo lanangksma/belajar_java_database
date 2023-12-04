@@ -1,0 +1,5 @@
+Nama, No HP, Jenis Kelamin, Alamat
+Fergusson, 920192019201, Laki-laki, Londong Inggris
+Myriad Von Betrice, 0219374286481, Perempuan, Midroute, Gilaudres
+Lanang, 0912901837812, Laki-laki, Bandung, Indonesia
+Alex Sander, 081281928, Laki-laki, Grinder, Maliker

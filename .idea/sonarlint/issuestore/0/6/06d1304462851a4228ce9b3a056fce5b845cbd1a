@@ -1,0 +1,15 @@
+
+v
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(²»›¥8ì¥ÄÒÁ1
+g
+java:S1192"JDefine a constant instead of duplicating this literal "Perempuan" 3 times.(œŸÍ­8í¥ÄÒÁ1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "Laki-laki" 3 times.(Ã­Ğåøÿÿÿÿ8î¥ÄÒÁ1
+
+java:S1319"lThe type of "currentValue" should be an interface such as "List" rather than the implementation "ArrayList".(¯ÿ»”ùÿÿÿÿ8ï¥ÄÒÁ1
+x
+java:S1450"VRemove the "biodata" field and declare it as a local variable in the relevant methods.(ƒêš½øÿÿÿÿ8É±ÅÒÁ1
+Y
+java:S6353<"<Use concise character class syntax '\\d' instead of '[0-9]'.(ò¾ñÙ8´¦ÄÒÁ1
+I
+java:S1068"-Remove this unused "mainFrame" private field.(¸†V8¶¦ÄÒÁ1

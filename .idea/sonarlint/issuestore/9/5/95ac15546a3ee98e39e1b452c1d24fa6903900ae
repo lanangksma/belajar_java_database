@@ -1,0 +1,14 @@
+
+r	java:S116"QRename this field "DB_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¼­ùÿÿÿÿ8ÎÏÌ±Á1
+s	java:S116"RRename this field "DB_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ğ¸şÿÿÿÿ8ÎÏÌ±Á1
+w	java:S116	"VRename this field "DB_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹”şÉøÿÿÿÿ8ÏÏÌ±Á1
+C
+java:S1170"!Make this final field static too.(¢¼­ùÿÿÿÿ8ĞÏÌ±Á1
+C
+java:S1170"!Make this final field static too.(½Ğ¸şÿÿÿÿ8ĞÏÌ±Á1
+C
+java:S1170	"!Make this final field static too.(¹”şÉøÿÿÿÿ8ÑÏÌ±Á1
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ëˆ­ıÿÿÿÿ8ÕÏÌ±Á1
+F
+java:S2115")Add password protection to this database.(¤‹ı«8àÏÌ±Á1
